@@ -29,6 +29,7 @@ O objetivo principal é demonstrar a aplicação de SQL para análise de dados, 
 
 - `queries.sql` → Contém as consultas SQL para responder às perguntas de negócio.
 - `insights.md` → Apresenta a interpretação e análise dos resultados das consultas.
+- `eda(nálise Exploratória de Dados (EDA))` → limpeza e tratamento dos dados, análises estatísticas iniciais  
 
 ## Como Executar
 
