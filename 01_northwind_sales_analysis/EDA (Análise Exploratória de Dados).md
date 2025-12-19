@@ -102,7 +102,8 @@ FROM northwind_orders;
 ![ Número de Resgistos](https://github.com/ThamaraCrispim/SQL-PoD-Academy/blob/main/imagens/estat%C3%ADstica%20basica.png)
 
 
-**Análise dos Resultados
+**Análise dos Resultados**
+
 1. Valor Mínimo (0.02)
 O menor valor de frete registrado é 0,02.
 Isso indica que há pedidos com frete praticamente nulo, o que pode ser resultado de promoções, entregas locais ou até mesmo possíveis erros de cadastro.
@@ -117,4 +118,4 @@ O desvio padrão é 116,71, que é maior do que a média.
 Isso indica uma grande dispersão nos valores de frete, ou seja, há bastante variação entre os pedidos (alguns com fretes muito baixos e outros com valores muito altos).
 5. Soma Total (64942.69)
 A soma total dos valores de frete é 64.942,69.
-Esse valor representa o total arrecadado (ou gasto) com fretes em todos os pedidos registrados.**
+Esse valor representa o total arrecadado (ou gasto) com fretes em todos os pedidos registrados
