@@ -141,3 +141,19 @@ order by frequencia desc
 **Análise:**
 2- Esses países têm participação menor no volume total de pedidos.
 Destaca-se a presença de países da Europa Ocidental e do Norte, além da Argentina e Portugal.
+
+###  Distribuição Temporal (se houver datas)
+
+```sql
+SELECT YEAR(coluna_data) AS ano, COUNT(*) AS total
+FROM nome_da_tabela
+GROUP BY ano
+ORDER BY ano
+```
+
+### Identifique Valores Únicos
+
+```sql
+SELECT COUNT(DISTINCT coluna) AS valores_unicos FROM nome_da_tabela;
+````
+
